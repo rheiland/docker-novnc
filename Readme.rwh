@@ -1,0 +1,10 @@
+
+NOTE: this is not intended to be run on my Mac! It builds a debian env
+
+--------
+I don't remember what this crap was for :/
+
+(base) M1P~/git/docker-novnc$ mkdir dot_circleci
+(base) M1P~/git/docker-novnc$ cp .circleci/config.yml dot_circleci/
+(base) M1P~/git/docker-novnc$ git rm -rf .circleci/
+
